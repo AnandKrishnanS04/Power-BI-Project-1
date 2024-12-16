@@ -1,6 +1,6 @@
 ## Power-BI-Project-1
 
-# Problem Statement:
+Problem Statement:
 1) Top/Bottom 5 product by Sales/Profit/Quantity Sold.
 
 2) How do sales trends vary over time (daily, monthly, quarterly, annually)?
